@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-  ## 🙋‍♀️ Introduction
+  ## 🙋‍♀ Introduction
   Welcome to the **AntOS** project! This is an open-source operating system developed by [Proton](https://github.com/joschatom).
   
   ## 🌈 Contribution Guidelines
