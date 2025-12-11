@@ -1,11 +1,12 @@
-## Hi there 👋
+# The Ant Operating System
 
+## Introduction
+Welcome to the AntOS project! This is a hobby operating system developed by Proton (https://github.com/joschatom).
+  
+State:
+We are currently working on AntOS v3 e.g. zAntOS (the Zig rewrite!). 
 
-  ## 🙋‍♀ Introduction
-  Welcome to the **AntOS** project! This is an open-source operating system developed by [Proton](https://github.com/joschatom).
+The other projects vary in their implementation, but most are rather buggy with a basic kernel-mode shell.
   
-  ## 🌈 Contribution Guidelines
-  If you are interested in contributing to the project, please read our [Contributing Guidelines](https://github.com/ant-os/kernel/blob/main/CONTRIBUTING.md).
-  
-  ## 👩‍💻 Useful Resources
-  If you are not familiar with OS development, you can find useful resources in our [Wiki](https://antos.proton-dev.net/docs).
+## Why the name AntOS?
+I liked ants as a child and found them interesting, so I named my OS after them. It also refers to the fact that it is tiny compared to other, more popular projects. ;)
